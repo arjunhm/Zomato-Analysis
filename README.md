@@ -18,6 +18,7 @@ Reading the .csv file from the program after writing into it leads to an error. 
 ## zomato_data.csv
 
 This .csv file contains information about 1500 restaurants in Bangalore.
+
 The columns of the .csv file are
 - Restaurant ID
 - Restuarant name
@@ -26,5 +27,3 @@ The columns of the .csv file are
 - Location of the restuarant
 - Price range
 - Rating
-
-## 

@@ -10,6 +10,7 @@ User needs to input
 - Sort
 - Order
 
-The requested data will be formatted into a DataFrame and stored in zomato_data.csv
+The requested data will be formatted into a DataFrame and stored in zomato_data.csv.
+
 Reading the .csv file from the program after writing into it leads to an error. Just open the .csv file, save it, exit it and run the program again.
 
